@@ -1,0 +1,20 @@
+El programa Mapabase ejecuta un mapa en coordenadas geograficas, siendo la tercera columna el nombre
+o descripcion de el punto geografico. En la primera linea del archivo ascii llano debe tener los sgte:
+lon  lat  rej
+en la siguiente linea del archivo,
+>
+luego se separa cada perfil con un signo
+>
+(vea el archivo de ejemplo "mag-urubamba_multi.gxy")
+
+La secuencia de trabajo recomendada es,
+
+Abre --> Mapeo --> Imprenta
+
+En este programa se ha implmentado la creacion de archivos graficos en formato tiff. Pero, es 
+posible generar otros formatos graficos (en especial en POstscript). 
+
+Otras funcionalidades especiales se pueden agregar a pedido del cliente. Comuniquese con el autor
+(vea help del programa)
+
+
